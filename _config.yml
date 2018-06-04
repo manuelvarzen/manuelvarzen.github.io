@@ -1,0 +1,47 @@
+## Site settings
+email: manuel.vargas.alegria@gmail.com
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+## Where things are
+source:          .
+destination:     ./
+collections_dir: .
+plugins_dir:     _plugins
+layouts_dir:     _layouts
+data_dir:        _data
+includes_dir:    _includes
+collections:
+  posts:
+    output:   true
+
+
+# SEO settings
+title: Philosophy of technology in education. 
+description: The formal education systems has been used differents technologies for many, many, centuries. Today we need reflexions about the transitions process in many differents ways that can be produce a radical change in the manner that teach and learn in our global society. 
+url: "https://manuelvarzen.github.io/"
+twitter_username: "https://www.twitter.com/manuelvarzen"
+default_img: /img/education_technology.jpg
+
+# Profile settings
+name: ManuelVarZen 
+profile_img: "/img/Vigia-1.png"  
+profile: Manuel Vargas Alegría is an apprentice of philosophy of technology for formal education systems. As such, he works on constructing questions that orient a sense to the tasks of public management as well as private activity.
+social: 
+    github: "https://github.com/manuelvarzen"
+    twitter: "https://twitter.com/manuelvarzen"
+    facebook: "https://www.facebook.com/manuelvarzen"
+    linkedin: "https://www.linkedin.com/in/manuelvarzen"
+
+# Build settings
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Plugins 
+plugins_dir: [jekyll-seo-tag, jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
