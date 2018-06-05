@@ -4,8 +4,8 @@ title: "Consideraciones ético-operativas del uso de la tecnología"
 date: 2018-05-30
 summary: Uso de la Tecnología 
 description: Es importante identificar las posiciones desde las cuales se invoca el uso de la tecnología.
-image: /img/vasoEnPc.png
-image-sm: /img/vasoEnPc.png
+image: /img/vasoEnPc.jpg
+image-sm: /img/vasoEnPc.jpg
 categories:
   - Ethics
   - Operation
