@@ -1,3 +1,4 @@
+--- 
 layout: post
 title: "Tecnología de la (des)centralización"
 date: 2018-06-4
