@@ -7,9 +7,10 @@ description: Una historia de estudiantes y computadoras
 image: /img/Red_IIEE_UGEL_DRELM_MINEDU.png
 image-sm: /img/Red_IIEE_UGEL_DRELM_MINEDU.png
 categories:
-  - Open Data
-  - Open Goverment
   - System education
+  - Technology 
+  - School
+  - District
 ---
 
 # Como usualmente suele ocurrir... !!! 
