@@ -9,7 +9,7 @@ image-sm: /img/Red_IIEE_UGEL_DRELM_MINEDU.png
 categories:
   - Open Data
   - Open Goverment
-  - System education
+  - Systems 
 ---
 
 # Como usualmente suele ocurrir... !!! 
