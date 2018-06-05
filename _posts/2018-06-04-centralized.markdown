@@ -12,4 +12,6 @@ categories:
   - School
   - District
 ---
-# Como usualmente suele ocurrir... !!! 
+# Como usualmente suele ocurrir... !!!
+{: style="text-align: justify"}
+ 
