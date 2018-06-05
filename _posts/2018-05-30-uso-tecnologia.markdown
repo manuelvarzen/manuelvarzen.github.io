@@ -13,8 +13,8 @@ categories:
   - Technology 
 ---
 
-<div class=pull-right>
 Creo que el punto interesante en la discusión sobre ciencia y tecnología; y su adopción en la sociedad o en la organización[1] es ubicar el paradigma desde el cual construimos el discurso de nuestras afirmaciones. Así ¿Sería posible conciliar un enfoque post-positivista con un enfoque social constructivista añadiendo siempre las consideraciones éticas que suponen la adopción de una determinada tecnología?
+{: style="text-align: justify"}
 
 Y sí, efectivamente, podría considerarse un sesgo. Pero que persona o acción humano no lo tiene. Tal vez se piensa que la tecnología es neutra y esta libre de sesgos, pero desde una perspectiva fenomenológica esta situación es diferente, por que supone superar la dicotomia entre sujeto y objeto.
 Así, el enfoque post.positivista de sostener que se puede separar objeto (no-humano) del sujeto (humano) ha sido al menos puesto en cuestión por la teoría del actor red del filosofo francés Bruno Latour quién sostiene que ambos se constituyes en uno a través de sus relaciones de mediación y traslación. Una aplicación de esta teoría se puede leer en la cita [2].
@@ -49,4 +49,3 @@ Fuentes:
 
 [8] Chan, Anita (2013). Networking Peripherias, technological futures and the myth of digital universalism (1st ed.). Massachusetts Institute of Technology. 
 
-</div>
