@@ -12,5 +12,4 @@ categories:
   - School
   - District
 ---
-
 # Como usualmente suele ocurrir... !!! 

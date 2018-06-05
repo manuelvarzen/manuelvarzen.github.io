@@ -4,24 +4,14 @@ baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
-## Where things are
-#source:          .
-#destination:     ./
-#collections_dir: .
-#plugins_dir:     _plugins
-#layouts_dir:     _layouts
-#data_dir:        _data
-#includes_dir:    _includes
-#collections:
-#  posts:
-#    output:   true
-
 
 # SEO settings
 title: Philosophy of technology in education. 
 description: The formal education systems has been used differents technologies for many, many, centuries. Today we need reflexions about the transitions process in many differents ways that can be produce a radical change in the manner that teach and learn in our global society. 
 url: "https://manuelvarzen.github.io/"
-twitter_username: "https://www.twitter.com/manuelvarzen"
+twitter: 
+    username: manuelvarzen
+    site:
 default_img: /img/education_technology.jpg
 
 # Profile settings
