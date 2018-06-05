@@ -13,6 +13,7 @@ categories:
   - Technology 
 ---
 
+<div class=text-justify>
 Creo que el punto interesante en la discusión sobre ciencia y tecnología; y su adopción en la sociedad o en la organización[1] es ubicar el paradigma desde el cual construimos el discurso de nuestras afirmaciones. Así ¿Sería posible conciliar un enfoque post-positivista con un enfoque social constructivista añadiendo siempre las consideraciones éticas que suponen la adopción de una determinada tecnología?
 
 Y sí, efectivamente, podría considerarse un sesgo. Pero que persona o acción humano no lo tiene. Tal vez se piensa que la tecnología es neutra y esta libre de sesgos, pero desde una perspectiva fenomenológica esta situación es diferente, por que supone superar la dicotomia entre sujeto y objeto.
@@ -46,4 +47,6 @@ Fuentes:
 
 [7] Urrea, C. (2007, septiembre). One to one connections: Building a Community Learning Culture. Boston, Massachusetts. Recuperado a partir de http://dspace.mit.edu/bitstream/handle/1721.1/41706/221978414.pdf?sequence=1
 
-[8] Chan, Anita (2013). Networking Peripherias, technological futures and the myth of digital universalism (1st ed.). Massachusetts Institute of Technology.
+[8] Chan, Anita (2013). Networking Peripherias, technological futures and the myth of digital universalism (1st ed.). Massachusetts Institute of Technology. 
+
+</div>
