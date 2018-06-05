@@ -13,5 +13,4 @@ categories:
   - District
 ---
 # Como usualmente suele ocurrir... !!!
-{: style="text-align: justify"}
  
