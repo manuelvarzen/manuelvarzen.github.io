@@ -45,5 +45,3 @@ Fuentes:
 [6] Severin, E., Santiago, A., Cristia, J., Ibarrarán, P., Thompson, J., & Cueto, S. (2011). Evaluation of the «Una Laptop Por NIño» program in Peru: Results and Perspectives. Recuperado a partir de http://dl.dropbox.com/u/3118867/Aporte Peru ENG.pdf
 
 [7] Urrea, C. (2007, septiembre). One to one connections: Building a Community Learning Culture. Boston, Massachusetts. Recuperado a partir de http://dspace.mit.edu/bitstream/handle/1721.1/41706/221978414.pdf?sequence=1
-
-[8] Chan, Anita (2013). Networking Peripherias, technological futures and the myth of digital universalism (1st ed.). Massachusetts Institute of Technology.
