@@ -9,7 +9,8 @@ image-sm: /img/vasoEnPc.png
 categories:
   - Ethics
   - Operation
-  - Technology Information
+  - Decision
+  - Technology 
 ---
 
 Creo que el punto interesante en la discusión sobre ciencia y tecnología; y su adopción en la sociedad o en la organización[1] es ubicar el paradigma desde el cual construimos el discurso de nuestras afirmaciones. Así ¿Sería posible conciliar un enfoque post-positivista con un enfoque social constructivista añadiendo siempre las consideraciones éticas que suponen la adopción de una determinada tecnología?
