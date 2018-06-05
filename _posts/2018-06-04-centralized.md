@@ -13,7 +13,3 @@ categories:
 ---
 
 # Como usualmente suele ocurrir... !!! 
-
-
-
-
