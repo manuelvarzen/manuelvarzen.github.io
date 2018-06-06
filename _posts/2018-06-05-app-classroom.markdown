@@ -4,8 +4,8 @@ title: "Cómo afrontarás la automatización de las tareas que dejas en la escue
 date: 2018-06-05
 summary: Cuando una app móvil puede automatizar una clásica tarea de profesor de aula tradicional. 
 description: Un hecho que supone la evidencia de la automatización en las aulas de clase tradicionales.  
-image: /img/Out_1.png
-image-sm: /img/Out_1.png
+image: /img/Photomath.png
+image-sm: /img/Photomath.png
 categories:
   - Technology 
   - Schools
