@@ -3,7 +3,7 @@ layout: post
 title: "Significados vinculados al uso de computadoras e Internet en la escuela pública"
 date: 2018-05-24
 summary: 
-description: 
+description: Breve descripcio´n 
 image: /img/Out_1.png
 image-sm: /img/Out_1.png
 categories:
@@ -30,9 +30,10 @@ desafíos para cualquier empresa, organización o institución, porque demanda e
 Si los actores de estas dos instituciones educativas encontraron espacios y modalidades diferentes a la escuela para aprender a usar las computadoras y la Internet interpretaremos entonces que, por diferentes circunstancias, las escuelas dejaron de tener las condiciones para afrontar la enseñanza del uso de estos dispositivos.
 {: style="text-align: justify"}
 
-Pero aun así las usaron. Si comparamos los sentidos pertenecientes al director vs al padre de familia, encontraremos una similitud hacia lo utilitario; sin embargo, cuando enfrentamos lo enunciado por el docente y los alumnos advertimos una tensión para (no) usar aquellos 
+Pero aun así las usaron. Si comparamos los sentidos pertenecientes al director vs al padre de familia, encontraremos una similitud hacia lo utilitario; sin embargo, cuando enfrentamos lo enunciado por el docente y los alumnos advertimos una tensión para (no) usar aquellos dispositivos, en los escasos espacios y por el corto tiempo del cual se dispone para emplearlos.
 {: style="text-align: justify"}
 
-dispositivos, en los escasos espacios y por el corto tiempo del cual se dispone para emplearlos.
-Actualización de los hallazgos del trabajo de investigación:“Aprendizajes y significados del uso de las computadoras y la Internet por parte de los actores (director, docente, alumno y padre de familia) en 2 instituciones educativas (II.EE.) de gestión pública en el distrito de Los Olivos, entre los meses de julio a setiembre del año 2010”
+
+Actualización de los hallazgos del trabajo de investigación:[“Aprendizajes y significados del uso de las computadoras y la Internet por parte de los actores (director, docente, alumno y padre de familia) en 2 instituciones educativas (II.EE.) de gestión pública en el distrito de Los Olivos, entre los meses de julio a setiembre del año 2010”](http://bit.ly/2IVl3Pe)
 {: style="text-align: justify"}
+
