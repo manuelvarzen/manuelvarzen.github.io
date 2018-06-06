@@ -7,20 +7,21 @@ description:
 image: /img/Out_1.png
 image-sm: /img/Out_1.png
 categories:
-  - Ethics
-  - Operation
-  - Decision
   - Technology 
+  - Perception
+  - Use 
+  - Adoption
+  - Schools
 --- 
 
-#Hallazgos principales
+**##Hallazgos principales**
 
 Establecido entre los actores el uso de la escritura en el papel: de izquierda a derecha, de arriba abajo, de inicio a fin; el uso de las computadoras conectadas a la Internet se caracterizó por mantener la metáfora del papel al interior de sus pantallas. Además, aquel uso evoco, en todos ellos, el reconocimiento de modalidades y espacios iguales para su aprendizaje pero con significados distintos en el cual no estuvo involucrada la escuela.
 {: style="text-align: justify"}
 
 Así, para todos los actores, el aprendizaje del uso de estas tecnologías se produjo bajo dos modalidades (autodidacta y por pares) y en dos espacios distintos (la cabina pública de Internet y el domicilio). Con relación a lo que significó, identificamos diferentes sentidos en cada uno de ellos: la expectativa de mejora, en el director; el cambio de la práctica pedagógica, en el docente; la frustración, en el alumno; y el sentido de utilidad, en los padres de familia.
 
-##Discusión
+**##Discusión**
 
 Dejar a un lado la metáfora del uso del papel en la pantalla es, tal vez, el mayor de los 
 desafíos para cualquier empresa, organización o institución, porque demanda el (re)diseño total de su funcionamiento para aprovechar las características propias de las computadoras conectadas a la Internet en particular y la de los dispositivos digitales en general.
