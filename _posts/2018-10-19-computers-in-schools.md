@@ -41,7 +41,7 @@ Un segundo momento del debate recayó en la cuestión de que si las institucione
 
 Finalmente surgió una tercera cuestión: los actores de aquellas organizaciones educativas nunca tuvieron la oportunidad de consensuar el uso de aquellas tecnologías. Pero si hubieran tenido aquella opción ¿aquel proceso hubiera requerido una amplia discusión entre todos ellos o simplemente hubieran aceptado una visión totalitaria que unificara todos sus criterios con la finalidad de asimilar esas tecnologías para el cumplimiento de su visión y misión institucional? {: style="text-align: justify"}
 
-Ponencia presentada en el [II Congreso Latinoamericano de Investigación y Educación Superior Interdisciplinaria]("http://congreso.pucp.edu.pe/iei/") realizado en Lima del 18 al 21 de septiembre de 2018. {: style="text-align: justify"}
+Ponencia presentada en el [II Congreso Latinoamericano de Investigación y Educación Superior Interdisciplinaria](http://congreso.pucp.edu.pe/iei/) realizado en Lima del 18 al 21 de septiembre de 2018. {: style="text-align: justify"}
 
 Resumen de la tesis de grado:[“Aprendizajes y significados del uso de las computadoras y la Internet por parte de los actores (director, docente, alumno y padre de familia) en 2 instituciones educativas (II.EE.) de gestión pública en el distrito de Los Olivos, entre los meses de julio a setiembre del año 2010”](http://bit.ly/2IVl3Pe)
 {: style="text-align: justify"}
