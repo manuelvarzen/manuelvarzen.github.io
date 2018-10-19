@@ -1,4 +1,4 @@
-﻿--- 
+--- 
 layout: post
 title: "Uso de las computadoras conectadas a la Internet en la escuela publica: sus actores (director, docente, alumnos y padres de familia) de cara a las tecnologías de la información y comunicación."
 date: 2018-05-24
