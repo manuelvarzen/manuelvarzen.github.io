@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Uso de las computadoras conectadas a la Internet en la escuela publica: sus actores (director, docente, alumnos y padres de familia) de cara a las tecnologías de la información y comunicación."
+title: "Uso de las computadoras conectadas a la Internet en la escuela publica."
 date: 2018-05-24
 summary: El uso de computadoras en dos colegios públicos del cono norte en Lima Metropolitana. 
 description: Resumen del trabajo de investigación realizado hace algunos años atrás.  
