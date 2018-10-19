@@ -12,9 +12,7 @@ categories:
 - Technology use
 - Education management
 --- 
-
-<div class=text-justify>
-Usualmente los estudios con relación al uso de las tecnologías de la información y comunicación en la escuela se desarrollan desde el campo de la educación, el de la informática o, en el mejor de los casos, desde la intersección de ambas áreas con la finalidad de encontrar nuevas formas de enseñar o aprender a través de un determinado enfoque pedagógico instrumentalizado por algún dispositivo tecnológico.</div>
+Usualmente los estudios con relación al uso de las tecnologías de la información y comunicación en la escuela se desarrollan desde el campo de la educación, el de la informática o, en el mejor de los casos, desde la intersección de ambas áreas con la finalidad de encontrar nuevas formas de enseñar o aprender a través de un determinado enfoque pedagógico instrumentalizado por algún dispositivo tecnológico.{: style="text-align: justify"}
 
 Sin embargo, esta investigación abordo el fenómeno del uso de estas tecnologías desde la interacción de los estudios de las tecnologías de la información y la de los estudios organizacionales para comprender la naturaleza y consecuencias de los fenómenos sociales y tecnológicos enfrentados por la organización llamada escuela y sus actores.
 {: style="text-align: justify"}
