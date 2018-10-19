@@ -12,7 +12,8 @@ categories:
 - Technology use
 - Education management
 --- 
-Usualmente los estudios con relación al uso de las tecnologías de la información y comunicación en la escuela se desarrollan desde el campo de la educación, el de la informática o, en el mejor de los casos, desde la intersección de ambas áreas con la finalidad de encontrar nuevas formas de enseñar o aprender a través de un determinado enfoque pedagógico instrumentalizado por algún dispositivo tecnológico.{: style="text-align: justify"}
+Usualmente los estudios con relación al uso de las tecnologías de la información y comunicación en la escuela se desarrollan desde el campo de la educación, el de la informática o, en el mejor de los casos, desde la intersección de ambas áreas con la finalidad de encontrar nuevas formas de enseñar o aprender a través de un determinado enfoque pedagógico instrumentalizado por algún dispositivo tecnológico.
+{: style="text-align: justify"}
 
 Sin embargo, esta investigación abordo el fenómeno del uso de estas tecnologías desde la interacción de los estudios de las tecnologías de la información y la de los estudios organizacionales para comprender la naturaleza y consecuencias de los fenómenos sociales y tecnológicos enfrentados por la organización llamada escuela y sus actores.
 {: style="text-align: justify"}
@@ -35,7 +36,8 @@ Otra características de ese uso, por parte de estos tres actores, fue la de man
 Con relación a los padres de familia, quienes nunca accedieron a usar los dispositivos informáticos y servicios telemáticos de la escuela, refirieron el mismo uso en dos de sus espacios cotidianos: la casa y el centro de trabajo, situación que evidenció un uso generalizado de características similares para todos los actores.
 {: style="text-align: justify"}
 
-Posteriormente, todos ellos reconocieron que sus aprendizajes se produjeron bajo dos modalidades (autodidacta y por pares) y en dos espacios distintos (la cabina pública de Internet y el domicilio). Así, la presencia de la escuela (como espacio) y la instrucción del docente (como modalidad de aprendizaje), para adiestrarse en el uso de estas tecnologías, fueron inexistentes en las referencias de los actores.{: style="text-align: justify"}
+Posteriormente, todos ellos reconocieron que sus aprendizajes se produjeron bajo dos modalidades (autodidacta y por pares) y en dos espacios distintos (la cabina pública de Internet y el domicilio). Así, la presencia de la escuela (como espacio) y la instrucción del docente (como modalidad de aprendizaje), para adiestrarse en el uso de estas tecnologías, fueron inexistentes en las referencias de los actores.
+{: style="text-align: justify"}
 
 En relación a los significados, se asoció uno para cada actor. Así se construyeron las siguientes relaciones: “la expectativa de mejora”, para el director; “el cambio de la práctica pedagógica”, para el docente; “la frustración”, para el alumno; y “el sentido de utilidad”, para los padres de familia.
 {: style="text-align: justify"}
