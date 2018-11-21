@@ -1,4 +1,4 @@
-<head>
+<head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta name="msvalidate.01" content="592A8D269CC7ACBB7C7FF8D368C9A0BF" />
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -106,16 +106,6 @@
   <meta name="twitter:title" content="{{ site.title }}" />
     
 {% endif %}
-
-  <!-- {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-  {% endif %}--> 
 {% include social-metatags.html %}
+{% seo %}
 </head>
