@@ -7,12 +7,12 @@ google_analytics:
 
 # SEO settings
 title: Philosophy of technology in education. 
-description: The formal education systems has been used differents technologies for many, many, years. Today we need reflexions about the transitions process in many differents ways that can be produce a radical change in the manner that teach and learn in our global society. 
+description: Today we need reflexions about the transitions process in many differents ways that can be produce a radical change in the manner that teach and learn in our global society. 
 url: "https://manuelvarzen.github.io/"
 twitter: 
     username: manuelvarzen
     site: https://www.twitter.com/manuelvarzen
-default_img: /img/education_technology.jpg
+    default_img: 
 
 # Profile settings
 name: ManuelVarZen 
