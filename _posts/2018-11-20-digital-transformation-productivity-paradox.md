@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Photomath en HomeSchool: un pretexto para aproximarnos a la filosfía de la tecnología desde la práctica del profesor"
+title: "Photomath en HomeSchool: un pretexto para aproximarnos a la filosofía de la tecnología desde la práctica del profesor"
 date: 2018-11-20
 summary: Un breve consejo para analizar la necesidad de una determinada tecnología digital para el aprendizaje. Nadie dijo que seria sencillo.    
 description: El uso de un determinado aplicativo debería ser estimado desde la tecnología educativa empleada desde la didáctica del enfoque pedagógico, como un primer nivel de análisis. El segundo, es aproximarse a los supuestos de la filosofía de la tecnología.   
@@ -12,6 +12,7 @@ categories:
 - Digital Transformation
 - Productivity Paradox
 --- 
+
 _¿Cómo se sentiría un profesor si un aplicativo informático hiciera parte de su trabajo? ¿Estaría preparado desde el punto de vista psicológico para asumir ese cambio? ¿Podrá asimilarlo o rechazarlo, ignorarlo o atenderlo? ¿Seguiría viviendo en la paradoja de la productividad o pensará que esta sumergido en la llamada transformación digital educativa?_ 
 
 Para todas las posibilidades existentes lo cierto es que debería preparase, entrenarse, en principio, con relación a la tecnología educativa empleada desde la didáctica de los diferentes enfoques pedagógicos que él seguramente utiliza de manera cotidiana. Sin este punto resuelto es casi seguro que su practica, su técnica, estará siempre orientada por las funcionalidades del software o del dispositivo ofrecidas por el fabricante.  
