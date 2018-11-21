@@ -13,7 +13,7 @@ categories:
 - Productivity Paradox
 --- 
 
-_¿Cómo se sentiría un profesor si un aplicativo informático hiciera parte de su trabajo? ¿Estaría preparado desde el punto de vista psicológico para asumir ese cambio? ¿Podrá asimilarlo o rechazarlo, ignorarlo o atenderlo? ¿Seguiría viviendo en la paradoja de la productividad o pensará que esta sumergido en la llamada transformación digital educativa?_ 
+_¿Cómo se sentiría un profesor si un (aplicativo informático)[https://photomath.net/en/] hiciera parte de su trabajo? ¿Estaría preparado desde el punto de vista psicológico para asumir ese cambio? ¿Podrá asimilarlo o rechazarlo, ignorarlo o atenderlo? ¿Seguiría viviendo en la paradoja de la productividad o pensará que esta sumergido en la llamada transformación digital educativa?_ 
 {: style="text-align: justify"}
 
 Para todas las posibilidades existentes lo cierto es que debería preparase, entrenarse, en principio, con relación a la tecnología educativa empleada desde la didáctica de los diferentes enfoques pedagógicos que él seguramente utiliza de manera cotidiana. Sin este punto resuelto es casi seguro que su practica, su técnica, estará siempre orientada por las funcionalidades del software o del dispositivo ofrecidas por el fabricante.
