@@ -12,7 +12,8 @@ url: "https://manuelvarzen.github.io/"
 twitter: 
     username: manuelvarzen
     site: https://www.twitter.com/manuelvarzen
-    default_img: 
+    default_img: /img/education_technology.jpg
+    lang: es
 
 # Profile settings
 name: ManuelVarZen 
