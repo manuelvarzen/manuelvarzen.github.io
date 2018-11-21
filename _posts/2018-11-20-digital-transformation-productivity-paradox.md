@@ -4,8 +4,8 @@ title: "Photomath en HomeSchool: un pretexto para aproximarnos a la filosofía d
 date: 2018-11-20
 summary: Un breve consejo para analizar la necesidad de una determinada tecnología digital para el aprendizaje. Nadie dijo que seria sencillo.    
 description: El uso de un determinado aplicativo debería ser estimado desde la tecnología educativa empleada desde la didáctica del enfoque pedagógico, como un primer nivel de análisis. El segundo, es aproximarse a los supuestos de la filosofía de la tecnología.   
-image: /img/PhotoMap.png
-image-sm: /img/PhotoMap.png
+image: /img/PhotoMath.jpg
+image-sm: /img/PhotoMath.jpg
 categories:
 - Philosophy of technology
 - Educational technology 
