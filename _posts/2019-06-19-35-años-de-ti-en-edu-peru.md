@@ -22,7 +22,7 @@ Como observaremos, no existe gobierno y ministra(o) que hubiera tomado partido (
 
 La imagen que presentamos a continuación anota el inventario de los hechos observados en el periodo que va desde el 2000 hasta la fecha (con la promesa de actualización constante, voluntaria y desinteresada).
 
-![Línea del tiempo de las iniciativas gubernamentales para el acceso a computadoras con acceso a Internet en las escuelas públicas del Perú: periodo 1980 - 2011]({{"/img/  Lineas_del_tiempo_rev3.jpg" | absolute_url }})
+![Línea del tiempo de las iniciativas gubernamentales para el acceso a computadoras con acceso a Internet en las escuelas públicas del Perú: periodo 1980 - 2011]({{"/img/Lineas_del_tiempo_rev3.jpg" | absolute_url }})
 
 Y en esta segunda imagen el periodo de 1980 al 20011 (la misma que también puede ser actualizada, de manera constante, voluntaria y desinteresada).
 
