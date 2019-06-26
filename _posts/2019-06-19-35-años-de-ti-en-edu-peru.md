@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "35 años de tecnologías de la información en el sistema educativo peruano"
+title: "35 años de tecnologías de la información en el sistema educativo peruano: un dilema para un ministro"
 date: 2019-06-19
 summary: Varios esfuerzos se realizaron por colocar computadoras en el aula, con pena y dolor.  
 description: Un análisis del periodo comprendido entre 1980 a 2011.  
