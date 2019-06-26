@@ -4,7 +4,7 @@ title: "Uso de las computadoras conectadas a la Internet en la escuela publica."
 date: 2018-10-19
 summary: El uso de computadoras en dos colegios públicos del cono norte en Lima Metropolitana. 
 description: Resumen del trabajo de investigación realizado hace algunos años atrás.  
-image: /img/Out_1.png
+image: /img/Out_1.jpg
 image-sm: /img/Out_1.jpg
 categories:
 - Information technology
