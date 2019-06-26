@@ -16,7 +16,7 @@ categories:
 Dicen que hacer cosas del mismo modo varias veces es necedad pero algunos lo llamarían perseverancia. Y es posible que sea así. Pero, tal vez, todo estaría bien si ambas acciones se contuvieran en la esfera de lo personal. Pero, ¿qué ocurre cuando pensamos que nuestro entorno es el mejor para todos? ¿En qué pensamos cuando definimos políticas públicas desde el escritorio (con la tecnocracia por delante) o desde la calle (con el populismo en frente)? Desde la gestión pública, ¿sería posible encontrar una manera de hacer las cosas que no tuviera el sello de lo totalizante y totalizador? Al parecer esta solución es inexistente desde el caso que haremos referencia: el uso de las computadoras con acceso a la Internet en las escuelas del sistema educativo nacional peruano, en el periodo de 1980 hasta la fecha. 
 {: style="text-align: justify"}
 
-##Algunos datos
+##Los datos
 Como observaremos, no existe gobierno y ministra(o) que hubiera tomado partido (con seriedad o sin ella) de intentar colocar las computadoras con acceso a Internet en las aulas de cada colegio del país con intensión (noble) de mejorar los aprendizajes de los estudiantes del Perú. Y tal vez pensaron que era (o es) relativamente sencillo debido a que todo el sistema educativo funciona bajo el modelo de alumnos por aula por hora de clase por docente agregados por escuelas. 
 {: style="text-align: justify"}
 
