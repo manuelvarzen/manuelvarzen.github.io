@@ -4,8 +4,8 @@ title: "35 años de tecnologías de la información en el sistema educativo peru
 date: 2019-06-19
 summary: Una revisión de los supuestos de la filosofía de la tecnología es requerida para resolver la relación tecnología aprendizaje.  
 description: Un análisis del periodo comprendido entre 1980 a la fecha permite comprender los supuestos filosóficos que orientaron aquellas decisiones  
-image: /img/Lineas_del_tiempo_rev2018.jpg
-image-sm: /img/Lineas_del_tiempo_rev2018.jpg
+image:/img/Lineas_del_tiempo_rev2018.jpg
+image-sm:/img/Lineas_del_tiempo_rev2018.jpg
 categories:
 - Public management
 - Systems education
